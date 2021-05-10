@@ -1,0 +1,13 @@
+C:\Users\GREAT\Desktop\C# Classes\OOP\bin\Debug\netcoreapp3.1\OOP.exe
+C:\Users\GREAT\Desktop\C# Classes\OOP\bin\Debug\netcoreapp3.1\OOP.deps.json
+C:\Users\GREAT\Desktop\C# Classes\OOP\bin\Debug\netcoreapp3.1\OOP.runtimeconfig.json
+C:\Users\GREAT\Desktop\C# Classes\OOP\bin\Debug\netcoreapp3.1\OOP.runtimeconfig.dev.json
+C:\Users\GREAT\Desktop\C# Classes\OOP\bin\Debug\netcoreapp3.1\OOP.dll
+C:\Users\GREAT\Desktop\C# Classes\OOP\bin\Debug\netcoreapp3.1\OOP.pdb
+C:\Users\GREAT\Desktop\C# Classes\OOP\obj\Debug\netcoreapp3.1\OOP.csprojAssemblyReference.cache
+C:\Users\GREAT\Desktop\C# Classes\OOP\obj\Debug\netcoreapp3.1\OOP.AssemblyInfoInputs.cache
+C:\Users\GREAT\Desktop\C# Classes\OOP\obj\Debug\netcoreapp3.1\OOP.AssemblyInfo.cs
+C:\Users\GREAT\Desktop\C# Classes\OOP\obj\Debug\netcoreapp3.1\OOP.csproj.CoreCompileInputs.cache
+C:\Users\GREAT\Desktop\C# Classes\OOP\obj\Debug\netcoreapp3.1\OOP.dll
+C:\Users\GREAT\Desktop\C# Classes\OOP\obj\Debug\netcoreapp3.1\OOP.pdb
+C:\Users\GREAT\Desktop\C# Classes\OOP\obj\Debug\netcoreapp3.1\OOP.genruntimeconfig.cache
